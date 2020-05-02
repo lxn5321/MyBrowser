@@ -1,12 +1,14 @@
 # MyBrowser
 基于PyQt的自制简易浏览器(Python)
 
+<br>
 
 
 ## 开发环境
 * PyQt 5.12.3
 * Python 3.7
 
+<br>
  
 
 ## 主要思路
@@ -26,7 +28,7 @@
 
 借助PyQt5的QtWebEngine模块。
 
-
+<br>
 
 ## 项目具体说明及展示
 
